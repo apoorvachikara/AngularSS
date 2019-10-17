@@ -1,0 +1,29 @@
+.table-div{
+width: 100%;
+margin: 40px;
+
+}
+
+table{
+width: 90%; 
+height: 100%;
+
+}
+
+mat-paginator{
+width: 90%; 
+}
+
+mat-card{
+font-size: 18px !important;
+color:rgb(103, 103, 235) !important;
+font-weight: 500 !important;
+margin: 10px !important;
+background-color: white
+}
+
+button{
+    float: right;
+    margin: 20px;
+    background-color: blueviolet
+}
